@@ -1,0 +1,1 @@
+angular.module('myApp', ['ngRoute', 'appRoutes', 'MainCtrl', 'CRUDCtrl', 'CRUDService', 'SignoutCtrl', 'SignoutService']);
